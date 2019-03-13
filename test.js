@@ -6,7 +6,6 @@ function onButtonClick() {
     li.className = 'list-group-item';
 
     document.getElementById('taskArea').appendChild(li);
-    
 };
 
 
